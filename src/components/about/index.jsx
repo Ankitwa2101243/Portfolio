@@ -36,7 +36,9 @@ const AboutDetails = () => {
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
             2+{" "}
+            {/* <sub className="font-semibold text-base">years of experience in web development and blockchain</sub> */}
             <sub className="font-semibold text-base">years of experience in web development and blockchain</sub>
+
           </p>
         </ItemLayout>
 
