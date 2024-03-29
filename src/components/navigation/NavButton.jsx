@@ -3,7 +3,7 @@ import {
   Home,
   Linkedin,
   NotebookText,
-  Palette,
+  PanelsTopLeft,
   Phone,
   Twitter,
   User,
@@ -21,7 +21,7 @@ const getIcon = (icon) => {
     case "about":
       return <User className="w-full h-auto" strokeWidth={1.5} />;
     case "projects":
-      return <Palette className="w-full h-auto" strokeWidth={1.5} />;
+      return <PanelsTopLeft  className="w-full h-auto" strokeWidth={1.5} />;
     case "contact":
       return <Phone className="w-full h-auto" strokeWidth={1.5} />;
     case "github":
@@ -122,3 +122,5 @@ const NavButton = ({
 };
 
 export default NavButton;
+
+
