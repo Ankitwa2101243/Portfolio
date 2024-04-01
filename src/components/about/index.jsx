@@ -16,7 +16,7 @@ const AboutDetails = () => {
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
             My journey in web development and Blockchain development is powered by an array of mystical
-            tools and languages,  your dedicated developer with expertise in crafting secure websites and blockchain solutions. Currently advancing my skills at IIIT Bhagalpur, I'm deeply committed to delivering top-notch web development and blockchain services. With a strong focus on security, I specialize in building resilient websites and implementing secure blockchain protocols. Let's work together to create your digital masterpiece,
+            tools and languages,  your dedicated developer with expertise in crafting secure websites and blockchain solutions. Currently advancing my skills at IIIT Bhagalpur, I am deeply committed to delivering top-notch web development and blockchain services. With a strong focus on security, I specialize in building resilient websites and implementing secure blockchain protocols. Let us work together to create your digital masterpiece,
             while my design skills ensure every creation is not only functional
             but visually captivating. Join me as I continue to explore new
             spells and technologies to shape the future of the web.
